@@ -1,5 +1,5 @@
 # Todo App
-Simple todo app that helps people to control they time and create tasks to complete. App created as part of test task for Mindbox company
+A simple todo app that helps people manage their time and create tasks to complete. The app was created as part of a test assignment for Mindbox
 
 ## How to install
 Clone repository and run ```npm install```
